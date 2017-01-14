@@ -2,7 +2,7 @@
 
 This is forked from http://github.com/gdm85/wolfengo.
 
-The files were moved around to make it easier to download (single 'go get' call) and build (just use 'go build' instead of 'make'.
+The files were moved around to make it easier to download (single 'go get' call) and build (just use 'go build') instead of 'make'.
 
 This is a clone of Wolfenstein3D written in Go, based on [Wolfenstein3DClone](https://github.com/BennyQBD/Wolfenstein3DClone) and licensed under [GNU/GPLv2](./LICENSE).
 
